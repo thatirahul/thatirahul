@@ -1,7 +1,7 @@
-## Hi there 👋
+## thatirahul
 It's my first git repository
 <br>
-author-thati rahul
+author-thati rahul(new start)
 
 <!--
 **thatirahul/thatirahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
